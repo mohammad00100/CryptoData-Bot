@@ -5,7 +5,7 @@ import telebot
 from io import BytesIO
 
 # 
-bot = telebot.TeleBot("7122748860:AAEvuPFW3XjXvNEU6gkUCmn14t-MdHbfXG4")
+bot = telebot.TeleBot("API")
 
 def fetch_binance_data(symbol, interval, limit):
     # URL 
