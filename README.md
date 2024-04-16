@@ -1,5 +1,4 @@
 # CryptoData-Bot
-Sure, here's a professional description for your README file on GitHub:
 
 ---
 
