@@ -26,7 +26,3 @@ If you find this bot helpful and would like to support its development, you can 
 - **Cardano (ADA):** [ADA_Address]
 
 Your support is greatly appreciated!
-
----
-
-Make sure to replace `[BTC_Address]`, `[ETH_Address]`, and `[ADA_Address]` with your actual cryptocurrency wallet addresses for donations.
